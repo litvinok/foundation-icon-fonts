@@ -1,0 +1,7 @@
+{
+    "name": "zurb/foundation-icon-fonts",
+    "description": "Custom icon sets that are stored in a handy web font and are coded to be more accessible.",
+    "keywords": ["foundation", "icon", "fonts"],
+    "homepage": "http://zurb.com/playground/foundation-icons",
+    "license": "MIT"
+}
